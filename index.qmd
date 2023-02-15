@@ -1,6 +1,6 @@
 ---
 title: "Welcome to R-Ladies St. Louis"
-subtitle: "Intro to Linear Optimization with R"
+subtitle: "Regular Expressions and Working with Text Strings"
 date: "February 22, 2023"
 format: rladies-revealjs
 self-contained: true
